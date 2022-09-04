@@ -1,6 +1,6 @@
 [submodule "api"]
   path = api
-  url = ./api
+  url = https://github.com/rikupoo/task_app_api
 [submodule "front"]
   path = front
-  url = ./front
+  url = https://github.com/rikupoo/task_app_front
